@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "687281984682",
+    "firebase_url": "https://appmusic-cbf47-default-rtdb.firebaseio.com",
+    "project_id": "appmusic-cbf47",
+    "storage_bucket": "appmusic-cbf47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687281984682:android:5f934408e3a06632d2acd3",
+        "android_client_info": {
+          "package_name": "com.medium.music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVD9PAgsrZwrObCr2A8Wp7jZqg8iTCIug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
